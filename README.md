@@ -8,7 +8,6 @@ WARNING, No checkpoint save in between.
 ```
 dataset_name="YOUR DATASET PATH"
   --output_dir="YOUR MODEL OUTPUT PATH"
-
 ```
 
 
@@ -32,3 +31,8 @@ dataset_name="treksis/again_test"
   --output_dir="/content/gdrive/MyDrive/full-tuning"
 ```
 
+Credit
+
+https://github.com/TheLastBen/fast-stable-diffusion
+
+https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning
